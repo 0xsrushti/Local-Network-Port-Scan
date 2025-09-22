@@ -1,0 +1,5 @@
+cd path\to\your\local\repo
+copy "D:\ELEVET labs\nmap.png" screenshot\
+git add screenshot/nmap.png
+git commit -m "Add nmap screenshot"
+git push origin main
